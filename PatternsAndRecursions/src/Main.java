@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-
+        int a=10;
         //pattern21(4);
         //pattern2(4);
        //pattern1(4);
        //pattern3(5);
        //pattern9(5);
-        int a = '9';
+        int a1 = '9';
         System.out.printf("%d", a);
 
     }
